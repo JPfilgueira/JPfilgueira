@@ -29,9 +29,3 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais fu
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </div> <br/><br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JPfilgueira/JPfilgueira/output/github-contribution-grid-snake.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JPfilgueira/JPfilgueira/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/JPfilgueira/JPfilgueira/output/github-contribution-grid-snake.svg"/>
-</picture>
