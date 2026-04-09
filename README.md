@@ -13,7 +13,6 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais fu
 
 🚀 Tecnologias & Ferramentas
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,react,php,python,ts,bootstrap,git,figma,vite" />
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,10 +33,4 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais fu
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</div>
-
-📊 GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
