@@ -9,16 +9,13 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais fu
 <br/><br/>
 
 🔭 Atualmente trabalhando em projetos pessoais e freelances
-<br/><br/>
+<br/>
 
-🌱 Sempre aprendendo e evoluindo como desenvolvedor
-<br/><br/>
-
-💡 Curioso por design, automação e boas práticas de código
-<br/><br/>
+💡 Maior curiosiade por design e automação
+<br/>
 
 📍 Brasil
-
+<br/><br/>
 
 <div align="center">
   🚀 Tecnologias & Ferramentas
