@@ -6,13 +6,10 @@
 Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais funcionais e bem projetadas. Tenho experiência tanto no front-end quanto no back-end, e gosto de unir código limpo com um bom senso de design. Estou sempre aprendendo e explorando novas ferramentas para entregar projetos cada vez melhores.
 
 
-🔭 Atualmente trabalhando em projetos pessoais e freelances <br/> 💡 Maior curiosiade por design e automação <br/> 🌎 Brasil
-
-<br/><br/>
+🔭 Atualmente trabalhando em projetos pessoais e freelances <br/> 💡 Maior curiosiade por design e automação <br/> 🌎 Brasil <br/><br/><br/><br/>
 
 <div align="center">
-  # 🚀 Tecnologias & Ferramentas
-  <br/><br/>
+# 🚀 Tecnologias & Ferramentas <br/><br/>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
