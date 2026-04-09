@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+Sobre+Mim+%F0%9F%91%8B" alt="Typing SVG" />
-<br/><br/>
-
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+Sobre+Mim+%F0%9F%91%8B" alt="Typing SVG" />
+</div> <br/><br/>
 
 🙋‍♂️ Sobre mim <br/>
 Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais funcionais e bem projetadas. Tenho experiência tanto no front-end quanto no back-end, e gosto de unir código limpo com um bom senso de design. Estou sempre aprendendo e explorando novas ferramentas para entregar projetos cada vez melhores.
