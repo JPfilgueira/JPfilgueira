@@ -1,5 +1,5 @@
 # 🙋‍♂️ Sobre mim <br/>
-Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais funcionais e bem projetadas. Tenho experiência tanto no front-end quanto no back-end, e gosto de unir código limpo com um bom senso de design. Estou sempre aprendendo e explorando novas ferramentas para entregar projetos cada vez melhores. <br/><br/>
+Sou desenvolvedor com o objetivo de transformar ideias, em soluções digitais funcionais e bem projetadas para o público. Sou desenvolvedor full-stack, tenho experiência em ambas as áreas, mas tenho preferência para front-end, preferindo unir um código bem estruturado com design limpo, acessível e agradável ao usuário. Busco aprender e explorar novas ferramentas para me aperfeiçoar cada vez mais. <br/><br/>
 
 
 🔭 Atualmente trabalhando em projetos pessoais e freelances <br/> 💡 Maior curiosiade por design e automação <br/> 🌎 Brasil <br/><br/><br/>
