@@ -2,7 +2,7 @@
 Sou desenvolvedor com o objetivo de transformar ideias, em soluções digitais funcionais e bem projetadas para o público. Sou desenvolvedor full-stack, tenho experiência em ambas as áreas, mas tenho preferência para front-end, preferindo unir um código bem estruturado com design limpo, acessível e agradável ao usuário. Busco aprender e explorar novas ferramentas para me aperfeiçoar cada vez mais. <br/><br/>
 
 
-🔭 Atualmente trabalhando em projetos pessoais e freelances <br/> 💡 Maior curiosidade por design <br/> 🌎 Brasil <br/><br/><br/>
+🔭 Atualmente trabalhando em projetos pessoais e freelances <br/> 💡 Maior curiosidade por design <br/> 🌎 Brasil <br/> Meu email - <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  /> <br/><br/><br/>
 <div align="center">
   
 # 🚀 Tecnologias & Ferramentas <br/><br/>
